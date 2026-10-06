@@ -1,0 +1,13 @@
+{
+  "name": "the-watch-fs60p",
+  "version": "1.0.0",
+  "description": "FS 60P - The timeless automatic watch by 60fps",
+  "type": "module",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "author": "Yuvi | ph no 7481889979",
+  "license": "MIT"
+}
